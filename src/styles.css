@@ -1,9 +1,3 @@
-svg {
-	display:block;
-	height:100%;
-	width:100%;
-}
-
 #wb-skip, header h2{
 	clip: rect(1px, 1px, 1px, 1px);
     height: 0 !important;
@@ -24,11 +18,12 @@ header {
 	background-size: 100% 60%;
 }
 
-header svg {
+header object {
 	height:32px;
 	width:69px;
-	padding:5px;
+	padding:5px 5px 0 5px;
 }
+
 
 #wet-title, .glbpnl h2 {
 	background: #11507c
