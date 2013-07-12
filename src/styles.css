@@ -1,4 +1,4 @@
-#wb-skip, header h2{
+#wb-skip, .ui-header h2{
 	clip: rect(1px, 1px, 1px, 1px);
     height: 0 !important;
     margin: 0 !important;
@@ -7,7 +7,7 @@
     width: 0 !important;
 }
 
-header {
+.ui-header {
 	background: #3c3c3c;
 	background: -moz-linear-gradient(#3c3c3c, #515151);
 	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#3c3c3c), color-stop(100%,#515151));
@@ -18,7 +18,7 @@ header {
 	background-size: 100% 60%;
 }
 
-header object {
+.ui-header object {
 	height:32px;
 	width:69px;
 	padding:5px 5px 0 5px;
