@@ -5,7 +5,7 @@ www.tbs.gc.ca/ws-nw/wet-boew/terms / www.sct.gc.ca/ws-nw/wet-boew/conditions -->
 <defs>
 	<style type="text/css">
 		.wxt_logo {fill:#000;}
-		@media screen {.wxt_logo {fill: #FFF;}}
+		/*@media screen {.wxt_logo {fill: #FFF;}}*/
 	</style>
 </defs>
 <g transform="matrix(1,0,0,0.99999897,-9.6901386,-462.70603)">
